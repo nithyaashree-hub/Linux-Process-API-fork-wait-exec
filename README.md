@@ -44,7 +44,8 @@ int main() {
 }
 ~~~
 
-##OUTPUT
+## OUTPUT
+
 ![alt text](1.jpeg)
 
 
@@ -121,7 +122,8 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
+
 ![alt text](2.jpeg)
 
 
